@@ -10,14 +10,7 @@ const firebase = require('firebase')
 //const serviceAccount = require('firebase-adminsdk-oavre@imageupload-14b0c.iam.gserviceaccount.com')
 
  
-const firebaseConfig = {
-    apiKey: "AIzaSyBZ3juhZxb6a313jNUCeC5I0slaIEQVgo4",
-    authDomain: "imageupload-14b0c.firebaseapp.com",
-    projectId: "imageupload-14b0c",
-    storageBucket: "imageupload-14b0c.appspot.com",
-    messagingSenderId: "818028057254",
-    appId: "1:818028057254:web:337ded5849be42544c1a67"
-};
+
 
 // // const app = initializeApp(firebaseConfig);
 // // const db = getFirestore(app)
